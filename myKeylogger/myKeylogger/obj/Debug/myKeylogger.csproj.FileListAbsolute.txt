@@ -1,0 +1,7 @@
+C:\Users\labuser\source\repos\myKeylogger\myKeylogger\obj\Debug\myKeylogger.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\myKeylogger\myKeylogger\obj\Debug\myKeylogger.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\myKeylogger\myKeylogger\bin\Debug\myKeylogger.exe.config
+C:\Users\labuser\source\repos\myKeylogger\myKeylogger\bin\Debug\myKeylogger.exe
+C:\Users\labuser\source\repos\myKeylogger\myKeylogger\bin\Debug\myKeylogger.pdb
+C:\Users\labuser\source\repos\myKeylogger\myKeylogger\obj\Debug\myKeylogger.exe
+C:\Users\labuser\source\repos\myKeylogger\myKeylogger\obj\Debug\myKeylogger.pdb
